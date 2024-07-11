@@ -14,6 +14,7 @@ params:
   # `contactName` and `contactEmail` are used to populate the contact page.
   contactName: EHRI DE
   contactEmail: meerwald@ifz-muenchen.de
+  contactEmail: miez@ifz-muenchen.de 
 
   # `contactForm` is a boolean that determines whether the contact form should be shown.
   contactForm: true
