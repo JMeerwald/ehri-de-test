@@ -1,8 +1,8 @@
 ---
 
 - id: whl
-  title: The Wiener Holocaust Library
-  url: https://wienerholocaustlibrary.org/
+  title: Institut für Zeitgeschichte
+  url: https://www.ifz-muenchen.de/
   image: wiener-logo.svg
   content: |
     The [Wiener Holocaust Library](https://wienerholocaustlibrary.org/) is one of the world's leading and most extensive archives on the Holocaust and Nazi era.
