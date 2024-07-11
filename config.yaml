@@ -1,19 +1,19 @@
 baseURL: 'http://example.org/'
 languageCode: en-gb
-title: United Kingdom
+title: Germany
 theme: ehri-nn
 copyright: '© 2010-{year} EHRI Consortium.'
 defaultContentLanguage: en
 dateFormat: '2 January 2006'
 summaryLength: 40
 params:
-  titleShort: EHRI-UK
+  titleShort: EHRI-DE
   facebookUrl: 'https://facebook.com/EHRIproject'
   twitterUrl: 'https://twitter.com/EHRIproject'
 
   # `contactName` and `contactEmail` are used to populate the contact page.
-  contactName: EHRI UK
-  contactEmail: feedback@ehri-uk.org
+  contactName: EHRI DE
+  contactEmail: meerwald@ifz-muenchen.de
 
   # `contactForm` is a boolean that determines whether the contact form should be shown.
   contactForm: true
