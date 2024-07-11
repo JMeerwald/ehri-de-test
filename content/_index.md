@@ -5,6 +5,4 @@ linkTitle: Home
 
 ---
 
-The UK holds a unique collection of records relating to the Holocaust and refugees who
-fled Nazi oppression. EHRI-UK is working towards finding and linking this source material
-in the UK through a national digital Holocaust Research Infrastructure.
+This will be the Webpage of the emerging German National Node 
