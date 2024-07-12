@@ -1,5 +1,5 @@
 ---
-title: About EHRI-UK
+title: About EHRI-DE
 type: about
 ---
 
@@ -9,13 +9,13 @@ infrastructure securing Holocaust research, commemoration and education on a tra
 EHRI-UK is the national node representing the United Kingdom within this international research consortium.
 {{< /intro >}}
 
-### EHRI-UK will seek to ensure the long-term sustainability of Holocaust research within the UK and beyond by:
+### EHRI-DE will serve as the national node, representing Germany within the consortium of the European Holocaust Research Infrastructure (EHRI). In fulfilling its mission of enhancing and supporting Holocaust research in Germany, EHRI-DE will pursue a number of objectives. These include:
 
- * representing institutions within the UK (and Crown Dependencies) which contain materials related to Holocaust
-   Studies to create a strong research consortium;
- * connecting resources through a state-of-the-art digital infrastructure;
- * developing innovative digital research tools;
- * offering fellowships and training opportunities for researchers, archivists, and heritage professionals.
+* Linking institutions involved in Holocaust Studies, Education and Commemoration and providing excellent networking opportunities on a national and transnational level
+* Interconnecting Holocaust-related archival resources and institutions
+* Offering fellowship and training opportunities for early career scholars, archivists, educators and those committed to Holocaust Commemoration
+* Fostering a transnational historiography of the Holocaust
+Developing and securing a digital infrastructure for Holocaust Studies
 
 EHRI's impact is primarily scientific, however, the infrastructure also advances a wider
 social and political agenda. The recent rise of antisemitism, xenophobia and aggressive
