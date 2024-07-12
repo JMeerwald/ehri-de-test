@@ -1,17 +1,13 @@
 ---
 
 - id: pistol
-  name: Dr. Rachel Pistol
-  email: feedback@ehri-uk.org
-  image: pistol.webp
+  name: Johannes Meerwald
+  email: meerwald@ifz-muenchen.de
+  image: meerwald.jpg
   about: >
-    Rachel Pistol is a digital historian based at
-    [King's College London](https://www.kcl.ac.uk/people/dr-rachel-pistol)
-    and is an Associate Advisor to The Wiener Holocaust Library, London.
-    She specialises in immigration and refugee history, Second World War
-    internment in the UK, and refugee trajectories. She is a member of the
-    EHRI Project Management Board where she coordinates dissemination,
-    innovation and virtual access activities.
+    Johannes Meerwald is a historian based at the
+    [Leibniz Institut for Contemporary History](https://www.ifz-muenchen.de/das-institut/ueber-das-institut/unser-profil) in Munich.
+    He specializes in Holocaust History. 
   contact: true
 
 - id: schmidt
