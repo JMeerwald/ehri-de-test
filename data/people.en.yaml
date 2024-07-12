@@ -1,6 +1,6 @@
 ---
 
-- id: pistol
+- id: meerwald
   name: Johannes Meerwald
   email: meerwald@ifz-muenchen.de
   image: meerwald.jpg
@@ -10,15 +10,10 @@
     He specializes in Holocaust History. 
   contact: true
 
-- id: schmidt
-  name: Dr. Christine Schmidt
-  email: feedback@ehri-uk.org
-  image: schmidt.webp
-  about: |
-    Christine Schmidt is a historian of the Holocaust, with a passion for and
-    commitment to public history, archives, and cultural heritage. She is Deputy
-    Director and Head of Research at
-    [The Wiener Holocaust Library](https://wienerholocaustlibrary.org),
-    London, where she oversees their academic programming and research initiatives,
-    curates exhibitions, and develops research partnerships.
+- id: miez
+  name: Florine Miez
+  email: miez@ifz-muenchen.de
+  image:
+  about: 
+
   contact: true
