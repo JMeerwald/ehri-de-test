@@ -2,18 +2,14 @@
 
 - id: ifz
   title: Leibniz Institute for Contemporary History
-  url: https://www.ifz-muenchen.de/
+  url: https://www.ifz-muenchen.de/en/the-institute/about-the-institute/our-profile
   image: logo zfhs.jpg
   content: |
-    The [Leibniz Institute for Contemporary History](https://www.ifz-muenchen.de/) (IfZ) is a research institution covering 20th century German history in its European and international contexts. 
-    The Center for Holocaust Studies at the IfZ in Munich was established in 2013 and is an international competence center for Holocaust research. 
-    It organizes conferences and workshops and conducts its own research and editing projects.
+    The [Leibniz Institute for Contemporary History](https://www.ifz-muenchen.de/en/the-institute/about-the-institute/our-profile) (IfZ) is a research institution covering 20th century German history in its European and international contexts. The Center for Holocaust Studies at the IfZ in Munich was established in 2013 and is an international competence center for Holocaust research. It organizes conferences and workshops and conducts its own research and editing projects.
 
 - id: BArch
   title: Federal Archives
-  url: https://www.ifz-muenchen.de/
-  image: logo zfhs.jpg
+  url: https://www.bundesarchiv.de/EN/Navigation/Home/home.html
+  image: bundesarchiv.jpg
   content: |
-    The [Leibniz Institute for Contemporary History](https://www.ifz-muenchen.de/) (IfZ) is a research institution covering 20th century German history in its European and international contexts. 
-    The Center for Holocaust Studies at the IfZ in Munich was established in 2013 and is an international competence center for Holocaust research. 
-    It organizes conferences and workshops and conducts its own research and editing projects.
+ The [Federal Archives](https://www.bundesarchiv.de/EN/Navigation/Home/home.html) (Bundesarchiv) is the largest archival institution in Germany. Key papers for the understanding of the Holocaust lie within its repositories. These records are accessible to users through archival finding aids and modern databases
