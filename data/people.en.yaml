@@ -4,7 +4,7 @@
   name: Johannes Meerwald
   email: meerwald@ifz-muenchen.de
   image: meerwald.JPG
-  about: >
+  about: |
     Johannes Meerwald is a historian based at the
     [Leibniz Institut for Contemporary History](https://www.ifz-muenchen.de/das-institut/ueber-das-institut/unser-profil) in Munich.
     He specializes in Holocaust History. 
@@ -13,7 +13,8 @@
 - id: miez
   name: Florine Miez
   email: miez@ifz-muenchen.de
-  image:
-  about: 
+  image: meerwald.JPG
+  about: |
+    Text
 
   contact: true
