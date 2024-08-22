@@ -20,3 +20,10 @@
     image: arolsen logo.PNG
     content: |
      The Arolsen Archives - International Center on Nazi Persecution is a center for documenting National Socialist persecution and the liberated survivors. Former victims of Nazism and their families receive information regarding their incarceration, forced labor and post-war Allied assistance. The more than 30 million documents in the Arolsen Archives also provide the basis for research and education on this topic.
+
+ - id: FBI
+    title: Fritz Bauer Institute
+    url: https://www.fritz-bauer-institut.de/en/
+    image: FBI.jpg
+    content: |
+   The Fritz Bauer Institute is an independent research and educational institution focusing on contemporary history from an interdisciplinary perspective. The institute moreover focuses on scholarly, pedagogical, and artistic engagements with the National Socialist politics of annihilation and its aftermath reaching into the present day.
