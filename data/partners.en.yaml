@@ -1,6 +1,6 @@
 ---
 
-  - id: ifz
+  - id: Ifz
     title: Leibniz Institute for Contemporary History
     url: https://www.ifz-muenchen.de/en/the-institute/about-the-institute/our-profile
     image: logo_zfhs.png
@@ -13,3 +13,10 @@
     image: bundesarchiv.png
     content: |
       The Federal Archives (Bundesarchiv) is the largest archival institution in Germany. Key papers for the understanding of the Holocaust lie within its repositories. These records are accessible to users through archival finding aids and modern databases.
+
+ - id: AA
+    title: Arolsen Archives
+    url: https://arolsen-archives.org/en/
+    image: arolsen logo.PNG
+    content: |
+     The Arolsen Archives - International Center on Nazi Persecution is a center for documenting National Socialist persecution and the liberated survivors. Former victims of Nazism and their families receive information regarding their incarceration, forced labor and post-war Allied assistance. The more than 30 million documents in the Arolsen Archives also provide the basis for research and education on this topic.
