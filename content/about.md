@@ -9,16 +9,10 @@ infrastructure securing Holocaust research, commemoration and education on a tra
 EHRI-DE is the National Node representing Germany within this international research consortium.
 {{< /intro >}}
 
-### EHRI-DE is the national node, representing Germany within the consortium of the European Holocaust Research Infrastructure (EHRI). In fulfilling its mission of enhancing and supporting Holocaust research in Germany, EHRI-DE will pursue a number of objectives. These include:
+### EHRI-DE is the National Node, representing Germany within the consortium of the European Holocaust Research Infrastructure and continuing its services and offerings on a national level. Given Germany's particular role as the main perpetrator of the Holocaust and the responsibility this entails, EHRI-DE will fulfil its mission to strengthen and support Holocaust research and education and to contribute to a solid basis for commemorating the victims of National Socialism in Germany and beyond. EHRI-DE pursues a number of objectives: 
 
-* Linking institutions involved in Holocaust Studies, Education and Commemoration and providing excellent networking opportunities on a national and transnational level
-* Interconnecting Holocaust-related archival resources and institutions
-* Offering fellowship and training opportunities for early career scholars, archivists, educators and those committed to Holocaust Commemoration
-* Fostering a transnational historiography of the Holocaust
-Developing and securing a digital infrastructure for Holocaust Studies
+* Transfer of knowledge: Linking institutions involved in Holocaust Studies, and Interconnecting Holocaust-related archival resources Offering transnational access and training opportunities for early career scholars, archivists, educators and those committed to Holocaust Commemmoration 
+* Fostering a transnational historiography of the Holocaust 
+* Developing and securing a digital infrastructure for Holocaust Studies 
+* Strengthen social resilience, diversity and inclusion as well as fighting anti-Semitism through Holocaust Education 
 
-EHRI's impact is primarily scientific, however, the infrastructure also advances a wider
-social and political agenda. The recent rise of antisemitism, xenophobia and aggressive
-nationalisms in Europe and beyond demonstrate that Holocaust research is never a purely
-academic concern, but a prerequisite for open and non-discriminatory societies across
-Europe and beyond.
