@@ -50,8 +50,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: EHRI-DE Services
+      pageRef: EHRI-DE Services
       weight: 40
     - identifier: services
       pageRef: services
