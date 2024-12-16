@@ -5,4 +5,4 @@ linkTitle: Home
 
 ---
 
-This will be the Webpage of the emerging German National Node 
+This is the Webpage of the emerging German National Node EHRI-DE
