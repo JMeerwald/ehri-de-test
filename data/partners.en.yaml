@@ -6,18 +6,21 @@
     image: logo_zfhs.png
     content: |
       The Leibniz Institute for Contemporary History (IfZ) is a research institution covering 20th century German history in its European and international contexts. The Center for Holocaust Studies at the IfZ in Munich was established in 2013 and is an international competence center for Holocaust research. It organizes conferences and workshops and conducts its own research and editing projects.
+  
   - id: BArch
     title: Federal Archives
     url: https://www.bundesarchiv.de/EN/Navigation/Home/home.html
     image: bundesarchiv.png
     content: |
       The Federal Archives (Bundesarchiv) is the largest archival institution in Germany. Key papers for the understanding of the Holocaust lie within its repositories. These records are accessible to users through archival finding aids and modern databases.
+ 
  - id: AArch
     title: Arolsen Archives
     url: https://arolsen-archives.org/en/
     image: arolsen_logo.PNG
     content: |
      The Arolsen Archives - International Center on Nazi Persecution is a center for documenting National Socialist persecution and the liberated survivors. Former victims of Nazism and their families receive information regarding their incarceration, forced labor and post-war Allied assistance. The more than 30 million documents in the Arolsen Archives also provide the basis for research and education on this topic.
+
  - id: FBI
     title: Fritz Bauer Institute
     url: https://www.fritz-bauer-institut.de/en/
