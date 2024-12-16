@@ -24,3 +24,18 @@
   content: |
     The EHRI Online Editions consist of annotated digitized documents from various sources gathered around a theme, and are a new way of presenting digital archival content. A new edition is published at irregular intervals.
 
+- id: geospatial
+  title: Geospatial Repository
+  url: https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/map
+  icon: lab_profile
+  image: geospatial.png
+  content: |
+    By providing access to data about Holocaust-related places and spaces, the EHRI Geospatial Repository facilitates research driven by spatial and geographic approaches. It builds on the spatial turn in the field of Holocaust Studies: over the past years, the research in Holocaust geographies, as conducted by the Holocaust Geographies Collaborative and others, advanced new perspectives and methods. Thinking through place and space helps to formulate new questions and research projects.
+
+- id: podcast
+  title: EHRI Podcast - For the Living and the Dead
+  url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
+  icon: lab_profile
+  image: podcast.png
+  content: |
+    A third season of the EHRI Podcast For the Living and the Dead: Traces of the Holocaust was launched on Thursday October 3, 2024. Between October and December 2024, we will release six episodes that deal with objects found in micro-archives, following on from the work EHRI has done over the last 4 years in looking for Micro-Archives.  The EHRI Podcast was first launched on 29 September 2022, and since then, we have published two seasons with six episodes each.
