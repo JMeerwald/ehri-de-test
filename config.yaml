@@ -47,18 +47,21 @@ menu:
     - identifier: about
       pageRef: about
       weight: 20
+    - identifier: News
+      pageRef: News
+      weight: 30
     - identifier: partners
       pageRef: partners
-      weight: 30
+      weight: 40
     - identifier: EHRI-DE Services
       pageRef: EHRI-DE Services
-      weight: 40
+      weight: 50
     - identifier: EHRI Services
       pageRef: EHRI Services
-      weight: 50
+      weight: 60
     - identifier: contact
       pageRef: contact
-      weight: 60
+      weight: 70
   footer:
     - identifier: about
       pageRef: about
