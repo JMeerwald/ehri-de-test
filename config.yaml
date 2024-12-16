@@ -53,8 +53,8 @@ menu:
     - identifier: EHRI-DE Services
       pageRef: EHRI-DE Services
       weight: 40
-    - identifier: services
-      pageRef: services
+    - identifier: EHRI Services
+      pageRef: EHRI Services
       weight: 50
     - identifier: contact
       pageRef: contact
