@@ -12,7 +12,7 @@
     image: bundesarchiv.png
     content: |
       The Federal Archives (Bundesarchiv) is the largest archival institution in Germany. Key papers for the understanding of the Holocaust lie within its repositories. These records are accessible to users through archival finding aids and modern databases.
- - id: AA
+ - id: AArch
     title: Arolsen Archives
     url: https://arolsen-archives.org/en/
     image: arolsen_logo.PNG
