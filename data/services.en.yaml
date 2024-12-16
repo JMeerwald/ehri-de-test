@@ -9,17 +9,18 @@
     The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
 
 - id: blog
-  title: Document Blog
+  title: EHRI Document Blog
   url: https://blog.ehri-project.eu/
   icon: article
-  image: names-2.png
+  image: blog.png
   content: |
     The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
 
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: editions
+  title: EHRI Online Editions
+  url: https://www.ehri-project.eu/ehri-online-editions/
   icon: lab_profile
-  image: doklady-1.png
+  image: editions.png
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    The EHRI Online Editions consist of annotated digitized documents from various sources gathered around a theme, and are a new way of presenting digital archival content. A new edition is published at irregular intervals.
+
