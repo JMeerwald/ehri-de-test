@@ -1,0 +1,78 @@
+about:
+  other: Über EHRI-AT
+
+partners:
+  other: Partnerinstitutionen
+
+contact:
+  other: Kontakt
+
+services:
+  other: EHRI-Services
+
+partners_funders:
+  other: Förderinstitutionen
+
+projects:
+  other: Services in AT
+
+document_blog:
+  other: Document Blog
+
+portal:
+  other: EHRI Portal
+
+digital_tools_guide:
+  other: Digital Tools Guide
+
+podcast:
+  other: Podcast
+
+learn_more:
+  other: Mehr erfahren
+
+latest:
+  other: News
+
+ehri_services:
+  other: EHRI Dienstleistungen
+
+below_are_some:
+  other: Unten finden Sie eine Übersicht über die  innovative Dienstleistungen, die EHRI für Nutzer:innen zur Verfügung stellt
+
+more_about_mission:
+  other: Mehr über EHRIs Mission und Vision
+
+go_to:
+  other: Mehr erfahren
+
+# Contact page
+contact_send_message:
+  other: Senden Sie uns eine Nachricht
+
+contact_form_name:
+  other: Vor- und Nachname
+
+contact_form_email:
+  other: E-Mail
+
+contact_form_subject:
+  other: Objekt
+
+contact_form_message:
+  other: Senden Sie uns eine Nachricht...
+
+contact_form_send:
+  other: Nachricht Versenden
+
+contact_coordinators:
+  other: Koordinator:innen für {{ .Title }}
+
+contact_social:
+  other: "EHRI in den sozialen Medien"
+
+contact_thanks:
+  other: Danke für Ihre Nachricht
+
+contact_back:
+  other: Zurück zum Formular
