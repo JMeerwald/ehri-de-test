@@ -48,16 +48,16 @@ menu:
       pageRef: about
       weight: 20
     - identifier: News
-      pageRef: News
+      pageRef: news
       weight: 30
     - identifier: partners
       pageRef: partners
       weight: 40
     - identifier: EHRI-DE Services
-      pageRef: EHRI-DE Services
+      pageRef: ehri-de-services
       weight: 50
     - identifier: EHRI Services
-      pageRef: EHRI Services
+      pageRef: ehri-services
       weight: 60
     - identifier: contact
       pageRef: contact
