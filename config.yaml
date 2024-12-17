@@ -94,36 +94,36 @@ languages:
     title: Germany
     weight: 1
     languageName: English
-  cy:
-    title: Deyrnas Unedig
+  de:
+    title: Deutschland
     weight: 2
-    languageName: Cymraeg
+    languageName: Deutsch
     menu:
       main:
         - identifier: about
-          pageRef: cy/about/
+          pageRef: de/about/
           weight: 20
         - identifier: partners
-          pageRef: cy/partners
+          pageRef: de/partners
           weight: 30
         - identifier: fellowships_training
-          pageRef: cy/training
+          pageRef: de/training
           weight: 40
         - identifier: services
-          pageRef: cy/services
+          pageRef: de/services
           weight: 50
         - identifier: contact
-          pageRef: cy/contact
+          pageRef: de/contact
           weight: 60
       footer:
         - identifier: about
-          pageRef: cy/about/
+          pageRef: de/about/
           weight: 20
         - identifier: partners
-          pageRef: cy/partners
+          pageRef: de/partners
           weight: 30
         - identifier: fellowships_training
-          pageRef: cy/training
+          pageRef: de/training
           weight: 40
       services:
         - identifier: document_blog
