@@ -103,18 +103,21 @@ languages:
         - identifier: about
           pageRef: de/about/
           weight: 20
+        - identifier: news
+          pageRef: de/news
+          weight: 30
         - identifier: partners
           pageRef: de/partners
-          weight: 30
-        - identifier: fellowships_training
-          pageRef: de/training
           weight: 40
-        - identifier: services
-          pageRef: de/services
+        - identifier: EHRI-DE Services
+          pageRef: de/ehri-de-services
           weight: 50
+        - identifier: EHRI Services
+          pageRef: de/ehri-services
+          weight: 60
         - identifier: contact
           pageRef: de/contact
-          weight: 60
+          weight: 70
       footer:
         - identifier: about
           pageRef: de/about/
