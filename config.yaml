@@ -1,5 +1,5 @@
 baseURL: 'http://example.org/'
-languageCode: en-gb
+languageCode: en
 title: Germany
 theme: ehri-nn
 copyright: '© 2010-{year} EHRI Consortium.'
