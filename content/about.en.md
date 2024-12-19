@@ -6,7 +6,6 @@ type: about
 {{< intro >}}
 The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) is an international 
 infrastructure securing Holocaust research, commemoration and education on a trans-national level. 
-EHRI-DE is the National Node representing Germany within this international research consortium.
 {{< /intro >}}
 
 ### EHRI-DE is the National Node, representing Germany within the consortium of the European Holocaust Research Infrastructure and continuing its services and offerings on a national level. 
