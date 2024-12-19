@@ -1,6 +1,6 @@
 ---
-title: Partners
+title: Partner
 type: partners
 ---
 
-Here you can find an overview of the EHRI-DE partners:
+Hier finden Sie eine Übersicht der EHRI-DE Partner:
