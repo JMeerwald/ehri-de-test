@@ -1,5 +1,5 @@
 ---
-title: Contact EHRI
+title: Kontaktieren Sie uns!
 type: contact
 ---
 
