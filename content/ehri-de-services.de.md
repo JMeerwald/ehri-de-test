@@ -1,6 +1,6 @@
 ---
-title: EHRI-Services
-type: services
+title: EHRI-DE-Services
+type: ehri-de-services
 ---
 
 {{< intro >}}
