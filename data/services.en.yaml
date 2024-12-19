@@ -1,7 +1,7 @@
 ---
 
 - id: portal
-  title: EHRI Portal
+  title: The EHRI Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
   image: portal.png
