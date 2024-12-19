@@ -1,13 +1,12 @@
 ---
-title: Am EHRI-UK
+title: Über EHRI-DE
 layout: about
 type: about
 ---
 
 {{< intro >}}
-Mae [Seilwaith Ymchwil yr Holocost Ewropeaidd (EHRI)](https://www.ehri-project.eu) yn seilwaith rhyngwladol sy'n sicrhau ymchwil,
-coffâd ac addysg yr Holocost ar lefel draws-genedlaethol. EHRI-UK yw’r nod cenedlaethol sy’n cynrychioli’r
-Deyrnas Unedig o fewn y consortiwm ymchwil rhyngwladol hwn.
+Die [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) ist eine internationale Infrastruktur, die sich zum Ziel gesetzt hat,
+die transnationale Holocaustforschung, -erinnerung und -lehre zu sichern.
 {{< /intro >}}
 
 ### Bydd EHRI-UK yn ceisio sicrhau cynaliadwyedd hirdymor ymchwil Holocost o fewn y DU a thu hwnt trwy:
