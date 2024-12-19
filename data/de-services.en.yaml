@@ -1,0 +1,52 @@
+---
+
+- id: portal
+  title: The EHRI Portal
+  url: https://portal.ehri-project.eu/
+  icon: meeting_room
+  image: portal.png
+  content: |
+     EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+
+- id: blog
+  title: EHRI Document Blog
+  url: https://blog.ehri-project.eu/
+  icon: article
+  image: blog.png
+  content: |
+    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+
+- id: editions
+  title: EHRI Online Editions
+  url: https://www.ehri-project.eu/ehri-online-editions/
+  icon: lab_profile
+  image: editions.png
+  content: |
+    The EHRI Online Editions consist of annotated digitized documents from various sources gathered around a theme, and are a new way of presenting digital archival content. A new edition is published at irregular intervals.
+
+- id: geospatial
+  title: Geospatial Repository
+  url: https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/map
+  icon: lab_profile
+  image: geospatial.png
+  content: |
+    By providing access to data about Holocaust-related places and spaces, the EHRI Geospatial Repository facilitates research driven by spatial and geographic approaches. It builds on the spatial turn in the field of Holocaust Studies: over the past years, the research in Holocaust geographies, as conducted by the Holocaust Geographies Collaborative and others, advanced new perspectives and methods. Thinking through place and space helps to formulate new questions and research projects.
+
+- id: podcast
+  title: EHRI Podcast - For the Living and the Dead
+  url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
+  icon: lab_profile
+  image: podcast.png
+  content: |
+    A third season of the EHRI Podcast For the Living and the Dead: Traces of the Holocaust was launched on Thursday October 3, 2024. 
+    Between October and December 2024, we will release six episodes that deal with objects found in micro-archives, following on from the work EHRI has done over the last 4 years in looking for Micro-Archives. 
+    The EHRI Podcast was first launched on 29 September 2022, and since then, we have published two seasons with six episodes each.
+
+- id: ckfellowship
+  title: EHRI Conny Kristel Fellowship Programme
+  url: https://www.ehri-project.eu/conny-kristel-fellowships/
+  icon: article
+  image: fellowship.jpg
+  content: |
+    By facilitating international access to an unprecedented range of key archives and collections related to the Holocaust as well as access to archival and digital humanities expertise, the EHRI Conny Kristel Fellowships support and stimulate Holocaust research conducted by researchers, archivists, librarians, curators, and junior scholars, especially PhD candidates with limited resources. 
+    Projects funded concern the Holocaust broadly conceived, including its prehistory, its aftermath, and the role of antisemitism before, during and after World War II.
