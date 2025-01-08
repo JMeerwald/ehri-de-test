@@ -1,2 +1,5 @@
 de_services:
   other: EHRI-DE Services
+
+services:
+  other: EHRI Services
