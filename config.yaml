@@ -47,13 +47,13 @@ menu:
     - identifier: about
       pageRef: about
       weight: 20
-    - identifier: News
+    - identifier: news
       pageRef: news
       weight: 30
     - identifier: partners
       pageRef: partners
       weight: 40
-    - identifier: EHRI-DE Services
+    - identifier: de_services
       pageRef: ehri-de-services
       weight: 50
     - identifier: EHRI Services
@@ -101,7 +101,7 @@ languages:
     menu:
       main:
         - identifier: about
-          pageRef: de/about/
+          pageRef: de/about
           weight: 20
         - identifier: news
           pageRef: de/news
@@ -109,7 +109,7 @@ languages:
         - identifier: partners
           pageRef: de/partners
           weight: 40
-        - identifier: EHRI-DE Services
+        - identifier: de_services
           pageRef: de/ehri-de-services
           weight: 50
         - identifier: EHRI Services
@@ -120,7 +120,7 @@ languages:
           weight: 70
       footer:
         - identifier: about
-          pageRef: de/about/
+          pageRef: de/about
           weight: 20
         - identifier: partners
           pageRef: de/partners
