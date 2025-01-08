@@ -56,7 +56,7 @@ menu:
     - identifier: de_services
       pageRef: ehri-de-services
       weight: 50
-    - identifier: EHRI Services
+    - identifier: services
       pageRef: ehri-services
       weight: 60
     - identifier: contact
@@ -112,7 +112,7 @@ languages:
         - identifier: de_services
           pageRef: de/ehri-de-services
           weight: 50
-        - identifier: EHRI Services
+        - identifier: services
           pageRef: de/ehri-services
           weight: 60
         - identifier: contact
