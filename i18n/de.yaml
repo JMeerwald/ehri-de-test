@@ -16,9 +16,6 @@ services:
 partners_funders:
   other: Förderinstitutionen
 
-projects:
-  other: Services in AT
-
 document_blog:
   other: Document Blog
 
