@@ -1,5 +1,5 @@
 ---
-title: EHRI DE Services
+title: EHRI-DE Services
 type: de_services
 ---
 
