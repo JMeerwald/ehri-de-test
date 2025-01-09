@@ -1,17 +1,29 @@
 ---
 
-- id: portal
-  title: EHRI Portal
-  url: https://portal.ehri-project.eu/
+- id: arolsen
+  title: Das Online Archive der Arolsen Archives
+  url: https://collections.arolsen-archives.org/en/search
   icon: meeting_room
-  image: portal.png
+  image: arolsen-archive.JPG
   content: |
-    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+    Die Arolsen Archives sind ein internationales Zentrum über NS-Verfolgung mit dem weltweit umfassendsten Archiv zu den Opfern und Überlebenden des Nationalsozialismus. 
+    Die Sammlung mit Hinweisen zu rund 17,5 Millionen Menschen beinhaltet Dokumente zu den verschiedenen Opfergruppen des NS-Regimes und ist eine wichtige Wissensquelle für die heutige Gesellschaft.
+    Ein großer Teil der rund 30 Millionen Dokumente ist inzwischen im Online-Archiv der Arolsen Archives verfügbar. Die Zahl der suchbaren Namen und Stichworte wächst kontinuierlich.
 
-- id: blog
-  title: EHRI Document Blog
-  url: https://blog.ehri-project.eu/
-  icon: article
-  image: blog.png
+- id: PMJ
+  title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
+  url: https://pmj-documents.org/
+  icon: meeting_room
+  image: PMJ.JPG
   content: |
-    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+    Die 16-bändige PMJ-Reihe mit historischen Dokumenten in englischer Übersetzung bietet einzigartige Einblicke in die Verfolgung und Ermordung der Juden unter der Naziherrschaft in ganz Europa. 
+
+- id: zeitgeschichte
+  title: Zeitgeschichte Open
+  url: https://open.ifz-muenchen.de/home
+  icon: meeting_room
+  image: zeitgeschichte.open.JPG
+  content: |
+   Seit 2019 präsentiert das IfZ seine Open Access-Publikationen auf dem Repositorium Zeitgeschichte Open; im Dezemer 2023 erfolgte ein vollständiger Relaunch. Auf Zeitgeschichte Open sollen, gemäß der Open-Access-Policy des Instituts, sukzessive alle IfZ-Publikationen bereitgestellt werden, für die entsprechende rechtliche Voraussetzungen bestehen. 
+   Neben Open-Access-Titeln werden über das Repositorium auch digitalisierte und zugangsbeschränkte Publikationen sowie Archivbestände angeboten.
+
