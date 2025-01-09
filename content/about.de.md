@@ -9,16 +9,13 @@ Die [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project
 die transnationale Holocaustforschung, -erinnerung und -lehre zu sichern.
 {{< /intro >}}
 
-### Bydd EHRI-UK yn ceisio sicrhau cynaliadwyedd hirdymor ymchwil Holocost o fewn y DU a thu hwnt trwy:
+### EHRI-DE ist das Konsortium, das Deutschland innerhalb des Verbunds der Europäischen Holocaust-Forschungsinfrastruktur (EHRI-ERIC) vertritt und dessen Dienste und Angebote auf nationaler Ebene weiterführt. 
 
-* representing institutions within the UK (and Crown Dependencies) which contain materials related to Holocaust
-   Studies to create a strong research consortium;
-* connecting resources through a state-of-the-art digital infrastructure;
-* developing innovative digital research tools;
-* offering fellowships and training opportunities for researchers, archivists, and heritage professionals.
+Angesichts der besonderen Rolle Deutschlands als Hauptverantwortlicher für den Holocaust und der damit verbundenen historischen Verpflichtung erfüllt EHRI-DE den Auftrag, die Holocaust-Forschung und -Vermittlung zu stärken und zu einer soliden Basis für das Gedenken an die Opfer des Nationalsozialismus in Deutschland und darüber hinaus beizutragen. EHRI-DE verfolgt dabei eine Reihe von Kernzielen: 
 
-EHRI's impact is primarily scientific, however, the infrastructure also advances a wider
-social and political agenda. The recent rise of antisemitism, xenophobia and aggressive
-nationalisms in Europe and beyond demonstrate that Holocaust research is never a purely
-academic concern, but a prerequisite for open and non-discriminatory societies across
-Europe and beyond.
+* Transfer von Wissen: Verknüpfung von Institutionen, die sich mit Holocaust-Studien befassen, und Vernetzung von Holocaust-bezogenen Archivressourcen 
+* Ausbildungsmöglichkeiten und Zugang zu Forschungsergebnissen und -Daten für Nachwuchswissenschaftler, Archivare, Pädagogen und diejenigen, die sich für das Gedenken an den Holocaust engagieren 
+* Förderung einer transnationalen Geschichtsschreibung über den Holocaust 
+* Entwicklung einer digitalen Infrastruktur für die Holocaustforschung
+* Stärkung von sozialer Resilienz, Vielfalt und Integration 
+
