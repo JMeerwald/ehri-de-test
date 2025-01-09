@@ -1,17 +1,19 @@
 ---
 
-- id: portal
-  title: EHRI Portal
-  url: https://portal.ehri-project.eu/
+- id: arolsen
+  title: The Online Archive of the Arolsen Archives
+  url: https://collections.arolsen-archives.org/en/search
   icon: meeting_room
-  image: portal.png
+  image: arolsen-archive.JPG
   content: |
-    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+    The Arolsen Archives are an international center on Nazi persecution with the world’s most extensive collection of documents about the victims and survivors of National Socialism. The documents relate to the various groups persecuted by the Nazi regime and contain references to around 17.5 million people, making them an important source of knowledge for society today. 
+    Many of the around 30 million documents are now available in the Online Archive of the Arolsen Archives. The number of searchable names and keywords is growing all the time. 
 
-- id: blog
-  title: EHRI Document Blog
-  url: https://blog.ehri-project.eu/
+- id: PMJ
+  title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
+  url: https://pmj-documents.org/
   icon: article
-  image: blog.png
+  image: PMJ.JPG
   content: |
-    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+    The 16-volume PMJ series of historical documents in English translation provides unique insights into the persecution and murder of the Jews under Nazi rule throughout Europe. 
+
