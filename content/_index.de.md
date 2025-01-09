@@ -1,9 +1,7 @@
 ---
-title: Creu Seilwaith Ymchwil Holocost Cenedlaethol y DU
-description: Croeso i Seilwaith Ymchwil Holocost y DU
+title: EHRI-DE - die deutsche Holocaust-Forschungsinfrastruktur
+description: Willkommen auf der Seite von EHRI-DE 
 linkTitle: Home
 ---
 
-Mae gan y DU gasgliad unigryw o gofnodion yn ymwneud â'r Holocost a ffoaduriaid sy'n
-ffoi o ormes y Natsïaid. Mae EHRI-UK yn gweithio tuag at ddod o hyd i'r deunydd ffynhonnell hwn a'i gysylltu
-yn y DU drwy Seilwaith Ymchwil yr Holocost digidol cenedlaethol.
+Willkommen auf der Homepage von EHRI-DE! 
