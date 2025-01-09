@@ -12,7 +12,7 @@
 - id: PMJ
   title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
   url: https://pmj-documents.org/
-  icon: article
+  icon: meeting_room
   image: PMJ.JPG
   content: |
     The 16-volume PMJ series of historical documents in English translation provides unique insights into the persecution and murder of the Jews under Nazi rule throughout Europe. 
@@ -20,7 +20,7 @@
 - id: zeitgeschichte
   title: Zeitgeschichte Open
   url: https://open.ifz-muenchen.de/home
-  icon: article
+  icon: meeting_room
   image: zeitgeschichte.open.JPG
   content: |
     The IfZ has been providing its open access publications via the Zeitgeschichte Open repository since 2019, which underwent a comprehensive relaunch in December 2023. In line with the Institute’s Open Access Policy, all IfZ publications that conform with the legal requirements are to be added successively to Zeitgeschichte Open. 
