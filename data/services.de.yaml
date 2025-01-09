@@ -6,7 +6,7 @@
   icon: meeting_room
   image: portal.png
   content: |
-    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+    Das EHRI-Portal bietet Zugang zu Archivmaterial mit Bezug zum Holocaust, das in Institutionen in ganz Europa und darüber hinaus aufbewahrt wird.
 
 - id: blog
   title: EHRI Document Blog
@@ -14,7 +14,7 @@
   icon: article
   image: blog.png
   content: |
-    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+    Der EHRI-Document Blog ist ein Forum für den Austausch über Quellen mit Bezug zum Holocaust sowie deren Präsentation und Interpretation mit Hilfe digitaler Tools.
 
 - id: editions
   title: EHRI Online Editions
@@ -22,7 +22,7 @@
   icon: lab_profile
   image: editions.png
   content: |
-    The EHRI Online Editions consist of annotated digitized documents from various sources gathered around a theme, and are a new way of presenting digital archival content. A new edition is published at irregular intervals.
+    Die EHRI-Online-Editionen bestehen aus kommentierten digitalisierten Dokumenten verschiedener Provenienz, die zu einem bestimmten Thema zusammengestellt wurden. Neue Ausgaben werden in unregelmäßigen Abständen veröffentlicht.
 
 - id: geospatial
   title: Geospatial Repository
@@ -30,17 +30,14 @@
   icon: lab_profile
   image: geospatial.png
   content: |
-    By providing access to data about Holocaust-related places and spaces, the EHRI Geospatial Repository facilitates research driven by spatial and geographic approaches. It builds on the spatial turn in the field of Holocaust Studies: over the past years, the research in Holocaust geographies, as conducted by the Holocaust Geographies Collaborative and others, advanced new perspectives and methods. Thinking through place and space helps to formulate new questions and research projects.
-
+    Durch den Zugang zu standardisierten Geodaten, die mit dem Holocaust in Verbindung stehen, erleichtert das EHRI Geospatial Repository raum-bezogene Forschung und knüpft an den „spatial turn“ im Bereich der Holocaustforschung an.
 - id: podcast
   title: EHRI Podcast - For the Living and the Dead
   url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
   icon: lab_profile
   image: podcast.png
   content: |
-    A third season of the EHRI Podcast For the Living and the Dead: Traces of the Holocaust was launched on Thursday October 3, 2024. 
-    Between October and December 2024, we will release six episodes that deal with objects found in micro-archives, following on from the work EHRI has done over the last 4 years in looking for Micro-Archives. 
-    The EHRI Podcast was first launched on 29 September 2022, and since then, we have published two seasons with six episodes each.
+   In jeder Folge von „For the Living and the Dead“ spricht ein Holocaust-Forscher über ein Objekt, das heute häufig in einem Museum aufbewahrt wird und eine persönliche Geschichte über den Holocaust erzählt.
 
 - id: ckfellowship
   title: EHRI Conny Kristel Fellowship Programme
@@ -48,5 +45,5 @@
   icon: article
   image: fellowship.jpg
   content: |
-    By facilitating international access to an unprecedented range of key archives and collections related to the Holocaust as well as access to archival and digital humanities expertise, the EHRI Conny Kristel Fellowships support and stimulate Holocaust research conducted by researchers, archivists, librarians, curators, and junior scholars, especially PhD candidates with limited resources. 
-    Projects funded concern the Holocaust broadly conceived, including its prehistory, its aftermath, and the role of antisemitism before, during and after World War II.
+     Die EHRI Conny-Kristel- Fellowships erleichtern den Zugang zu einer Vielzahl an Archiven und Sammlungen zum Thema Holocaust und unterstützen die Forschung von Wissenschaftlern, Archivaren, Bibliothekaren, Kuratoren und weiteren Zielgruppen. 
+     Die geförderten Projekte befassen sich mit dem Holocaust im weitesten Sinne, einschließlich seiner Vorgeschichte, seiner Nachwirkungen und der Rolle des Antisemitismus vor, während und nach dem Zweiten Weltkrieg.
