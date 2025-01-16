@@ -1,5 +1,5 @@
 ---
-title: Creating a German National Holocaust Research Infrastructure
+title: The consortium of the European Holocaust Research Infrastructure in Germany
 description: Welcome to the German Holocaust Research Infrastructure
 linkTitle: Home
 
