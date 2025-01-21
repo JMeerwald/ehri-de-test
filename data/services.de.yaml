@@ -11,7 +11,7 @@
 - id: blog
   title: EHRI Document Blog
   url: https://blog.ehri-project.eu/
-  icon: article
+  icon: meeting_room
   image: blog.png
   content: |
     Der EHRI-Document Blog ist ein digitales Forum für den Austausch über Quellen mit Bezug zum Holocaust. 
@@ -19,7 +19,7 @@
 - id: editions
   title: EHRI Online Editions
   url: https://www.ehri-project.eu/ehri-online-editions/
-  icon: lab_profile
+  icon: meeting_room
   image: editions.png
   content: |
     Die EHRI-Online-Editionen bestehen aus kommentierten digitalisierten Dokumenten verschiedener Provenienz, die unter einem bestimmten Thema gruppiert wurden. Neue Ausgaben werden in unregelmäßigen Abständen veröffentlicht.
@@ -27,7 +27,7 @@
 - id: geospatial
   title: Geospatial Repository
   url: https://geodata.ehri-project.eu/geonetwork/srv/eng/catalog.search#/map
-  icon: lab_profile
+  icon: meeting_room
   image: geospatial.png
   content: |
     Durch den Zugang zu standardisierten Geodate erleichtert das EHRI Geospatial Repository raumbezogene Forschung und knüpft an den „spatial turn“ im Bereich der Holocaustforschung an.
@@ -35,7 +35,7 @@
 - id: podcast
   title: EHRI Podcast - For the Living and the Dead
   url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
-  icon: lab_profile
+  icon: meeting_room
   image: podcast.png
   content: |
    In jeder Folge von „For the Living and the Dead“ spricht ein:e Holocaust-Forscher:in über ein Objekt, das eine individuelle Geschichte über den Holocaust erzählt.
@@ -43,7 +43,7 @@
 - id: ckfellowship
   title: Das EHRI Conny Kristel Fellowship Programm
   url: https://www.ehri-project.eu/conny-kristel-fellowships/
-  icon: article
+  icon: meeting_room
   image: fellowship.jpg
   content: |
     Das EHRI Conny Kristel Fellowship Programm erleichtert den Zugang zu Holocaust-relevanten Archiven und Beständen und unterstützt damit die Forschung verschiedener Zielgruppen.
