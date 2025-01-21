@@ -1,40 +1,27 @@
 ---
-title: Step 1 Application to Establish EHRI as an ERIC Submitted to the EU
-linkTitle: Step 1 EHRI-ERIC Application
-date: 2023-07-13
-image: EHRI-services-infrastructure-v01.jpg
+title: EHRI becomes 30th EU-Recognised Research Consortium - A major milestone for EHRI and Holocaust studies
+linkTitle: EHRI becomes ERIC
+date: 2025-01-20
+image: EHRI-Conference.jpg
 summary: |
-  On 13 July 2023, the Dutch Ministry of Education, Culture and Science submitted
-  to the European Union the step 1 application for EHRI, the European Holocaust 
-  Research Infrastructure, to establish itself as an European Research 
-  Infrastructure Consortium (ERIC). 
+  The European Commission has granted the legal status of European Research Infrastructure Consortium (ERIC) to the European Holocaust Research Infrastructure (EHRI), making EHRI the 30th 
+  ERIC established since 2011. This recognition highlights EHRI’s vital role in safeguarding the historical record of the Holocaust and its ongoing relevance to modern society.
 ---
 
-On 13 July 2023, the Dutch Ministry of Education, Culture and Science submitted 
-to the European Union the step 1 application for EHRI, the European Holocaust 
-Research Infrastructure, to establish itself as an European Research Infrastructure Consortium (ERIC).
+The European Commission has granted the legal status of European Research Infrastructure Consortium (ERIC) to the European Holocaust Research Infrastructure (EHRI), making EHRI the 
+30th ERIC established since 2011. This recognition highlights EHRI’s vital role in safeguarding the historical record of the Holocaust and its ongoing relevance to modern society.
 
-"With this submission, we are well on our way towards EHRI transforming itself from 
-a series of successful projects that have been running since 2010 into a permanent 
-European organization that will help secure the future of trans-national Holocaust research, 
-commemoration and education,” explains Dr. Reto Speck, Co-Director of EHRI.
+This development marks a significant step forward in EHRI’s mission to bridge the gaps between dispersed archival materials across Europe and beyond. By doing so, it seeks to overcome 
+the fragmentation of Holocaust historiography and foster a more comprehensive understanding of this pivotal event in European history. Since 2010, EHRI has been working to integrate 
+Holocaust research and documentation through EU-funded initiatives. In 2018, it was included in the roadmap of the European Strategy Forum on Research Infrastructures (ESFRI).
 
-Shortly before the Step 1 submission, the interim General Assembly (iGA) decided 
-unanimously to approve all the necessary documents for this first part of the 
-application process. The iGA comprises of representatives of the 11 prospective 
-founding member countries of the ERIC and is the key committee that prepares and 
-evaluates documentation for the process of establishing EHRI-ERIC. EHRI started as a 
-project in 2010 and is now in its third phase with 27 partners in 15 European countries, 
-Israel and the United States. The Dutch [NIOD](https://niod.nl) Institute for War, Holocaust and Genocide 
-Studies has been coordinator of the projects and the Netherlands has been chosen as the 
-hosting country of the ERIC.
+**Ekaterina Zaharieva**, Commissioner for Startups, Research and Innovation said: "I warmly welcome the establishment of EHRI as an ERIC. As we continue to drive innovation and 
+excellence in European research, EHRI’s cutting-edge infrastructure and services plays a vital role in promoting open access to historical data, fostering new centres of excellence, 
+and safeguarding Europe’s shared heritage. I am confident that EHRI will continue to inspire new generations of researchers and scholars to explore the complexities of the Holocaust 
+and its impact on European society."
 
-The European Commission will assess the Step 1 application by obtaining the views of 
-independent experts. It is expected that after 3 months, EHRI will be informed of the 
-results of the assessment. Taking into account necessary modifications, EHRI will then 
-progress to Step 2, which is a formal request to the Commission to set up the ERIC, 
-signed by all future members of the ERIC.
+EHRI will mark the recognition of its legal status on Sunday 26 January during an [inauguration ceremony](https://acrobat.adobe.com/id/urn:aaid:sc:eu:83de796d-9776-4006-8dbc- 
+b22f76123d24) at the POLIN Museum in Warsaw, Poland.
 
-“After approval of the European Commission, EHRI will then be ready to establish itself as 
-an ERIC,” says Reto Speck, “It is our sincere wish to launch EHRI-ERIC by January 2025, the 
-80th-anniversary of the liberation of Auschwitz.” 
+Read the full [News Article](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-holocaust-research-infrastructure-becomes-30th-eu-recognised- 
+research-consortium-major-2025-01-20_en) of the Directorate-General for Research and Innovation of the European Commission.
