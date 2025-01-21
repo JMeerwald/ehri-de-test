@@ -2,7 +2,7 @@ about:
   other: Über EHRI-DE
 
 partners:
-  other: Partnerinstitutionen
+  other: Partner
 
 de_services:
   other: EHRI-DE Angebote
@@ -60,7 +60,7 @@ contact_form_message:
   other: Senden Sie uns eine Nachricht...
 
 contact_form_send:
-  other: Nachricht Versenden
+  other: Nachricht versenden
 
 contact_coordinators:
   other: Koordinator:innen für {{ .Title }}
