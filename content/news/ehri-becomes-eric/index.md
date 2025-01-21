@@ -20,8 +20,6 @@ excellence in European research, EHRI’s cutting-edge infrastructure and servic
 and safeguarding Europe’s shared heritage. I am confident that EHRI will continue to inspire new generations of researchers and scholars to explore the complexities of the Holocaust 
 and its impact on European society."
 
-EHRI will mark the recognition of its legal status on Sunday 26 January during an [inauguration ceremony](https://acrobat.adobe.com/id/urn:aaid:sc:eu:83de796d-9776-4006-8dbc- 
-b22f76123d24) at the POLIN Museum in Warsaw, Poland.
+EHRI will mark the recognition of its legal status on Sunday 26 January during an inauguration ceremony at the POLIN Museum in Warsaw, Poland.
 
-Read the full [News Article](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-holocaust-research-infrastructure-becomes-30th-eu-recognised- 
-research-consortium-major-2025-01-20_en) of the Directorate-General for Research and Innovation of the European Commission.
+
