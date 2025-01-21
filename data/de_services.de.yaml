@@ -3,7 +3,7 @@
 - id: arolsen
   title: Das Online Archive der Arolsen Archives
   url: https://collections.arolsen-archives.org/en/search
-  icon: blog.png
+  icon: meeting_room
   image: arolsen-archive.JPG
   content: |
     Die Arolsen Archives sind ein internationales Zentrum über NS-Verfolgung mit dem weltweit umfassendsten Archiv zu den Opfern und Überlebenden des Nationalsozialismus. 
@@ -13,7 +13,7 @@
 - id: PMJ
   title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
   url: https://pmj-documents.org/
-  icon: blog.png
+  icon: meeting_room
   image: pmj_neu.png
   content: |
    PMJ ist eine 16-bändige Edition historischer Dokumente in englischer Übersetzung, die die Verfolgung und Ermordung der Juden im Deutschen Reich und im gesamten nationalsozialistisch dominierten Europa von 1933 bis 1945 aus der Perspektive von Tätern, Opfern und Dritten behandelt. Wissenschaftliche Einführungen zu den wichtigsten Ereignissen und Entwicklungen sowie erläuternde Fußnoten, Biografien und Register stellen den Kontext der Dokumente her.
@@ -23,7 +23,7 @@
 - id: zeitgeschichte
   title: Zeitgeschichte Open
   url: https://open.ifz-muenchen.de/home
-  icon: blog.png
+  icon: meeting_room
   image: zeitgeschichte.open.JPG
   content: |
    Seit 2019 präsentiert das IfZ seine Open Access-Publikationen auf dem Repositorium Zeitgeschichte Open; im Dezemer 2023 erfolgte ein vollständiger Relaunch. Auf Zeitgeschichte Open sollen, gemäß der Open-Access-Policy des Instituts, sukzessive alle IfZ-Publikationen bereitgestellt werden, für die entsprechende rechtliche Voraussetzungen bestehen. 
