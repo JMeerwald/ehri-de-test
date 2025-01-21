@@ -16,7 +16,7 @@ params:
   contactEmail: meerwald@ifz-muenchen.de
 
   # `contactForm` is a boolean that determines whether the contact form should be shown.
-  contactForm: true
+  contactForm: false
 
   # `contactFormUrl` is the POST action of the form that will be used to send the contact email.
   contactFormUrl: dummy
