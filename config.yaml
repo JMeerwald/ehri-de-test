@@ -8,8 +8,7 @@ dateFormat: '2 January 2006'
 summaryLength: 40
 params:
   titleShort: EHRI-DE
-  facebookUrl: 'https://facebook.com/EHRIproject'
-  twitterUrl: 'https://twitter.com/EHRIproject'
+
 
   # `contactName` and `contactEmail` are used to populate the contact page.
   contactName: EHRI DE
@@ -20,14 +19,6 @@ params:
 
   # `contactFormUrl` is the POST action of the form that will be used to send the contact email.
   contactFormUrl: dummy
-
-  # `funders` is a list of funding bodies, each with a name, logo and an optional URL.
-  # If the URL is not provided, the logo will not be linked. The logo should be in the
-  # `static/images` folder.
-  funders:
-    - name: EHRI is funded by the European Commission
-      logo: 'eu-logo.svg'
-      url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
 
 # Configure syntax highlighting for the examples on the `training` page
 markup:
