@@ -6,7 +6,7 @@
   icon: meeting_room
   image: portal.png
   content: |
-    Das EHRI-Portal bietet Zugang zu Archivmaterial mit Bezug zum Holocaust, das in Institutionen in ganz Europa und darüber hinaus aufbewahrt wird.
+    Das EHRI-Portal bietet Zugang zu weltweit verstreuten Archivmetadaten zum Holocaust.
 
 - id: blog
   title: EHRI Document Blog
@@ -14,7 +14,7 @@
   icon: article
   image: blog.png
   content: |
-    Der EHRI-Document Blog ist ein Forum für den Austausch über Quellen mit Bezug zum Holocaust sowie deren Präsentation und Interpretation mit Hilfe digitaler Tools.
+    Der EHRI-Document Blog ist ein digitales Forum für den Austausch über Quellen mit Bezug zum Holocaust. 
 
 - id: editions
   title: EHRI Online Editions
@@ -22,7 +22,7 @@
   icon: lab_profile
   image: editions.png
   content: |
-    Die EHRI-Online-Editionen bestehen aus kommentierten digitalisierten Dokumenten verschiedener Provenienz, die zu einem bestimmten Thema zusammengestellt wurden. Neue Ausgaben werden in unregelmäßigen Abständen veröffentlicht.
+    Die EHRI-Online-Editionen bestehen aus kommentierten digitalisierten Dokumenten verschiedener Provenienz, die unter einem bestimmten Thema gruppiert wurden. Neue Ausgaben werden in unregelmäßigen Abständen veröffentlicht.
 
 - id: geospatial
   title: Geospatial Repository
@@ -30,20 +30,20 @@
   icon: lab_profile
   image: geospatial.png
   content: |
-    Durch den Zugang zu standardisierten Geodaten, die mit dem Holocaust in Verbindung stehen, erleichtert das EHRI Geospatial Repository raum-bezogene Forschung und knüpft an den „spatial turn“ im Bereich der Holocaustforschung an.
+    Durch den Zugang zu standardisierten Geodate erleichtert das EHRI Geospatial Repository raumbezogene Forschung und knüpft an den „spatial turn“ im Bereich der Holocaustforschung an.
+    
 - id: podcast
   title: EHRI Podcast - For the Living and the Dead
   url: https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/
   icon: lab_profile
   image: podcast.png
   content: |
-   In jeder Folge von „For the Living and the Dead“ spricht ein Holocaust-Forscher über ein Objekt, das heute häufig in einem Museum aufbewahrt wird und eine persönliche Geschichte über den Holocaust erzählt.
+   In jeder Folge von „For the Living and the Dead“ spricht ein Holocaust-Forscher über ein Objekt, das eine individuelle Geschichte über den Holocaust erzählt.
 
 - id: ckfellowship
-  title: EHRI Conny Kristel Fellowship Programme
+  title: Das EHRI Conny Kristel Fellowship Programm
   url: https://www.ehri-project.eu/conny-kristel-fellowships/
   icon: article
   image: fellowship.jpg
   content: |
-     Die EHRI Conny-Kristel- Fellowships erleichtern den Zugang zu einer Vielzahl an Archiven und Sammlungen zum Thema Holocaust und unterstützen die Forschung von Wissenschaftlern, Archivaren, Bibliothekaren, Kuratoren und weiteren Zielgruppen. 
-     Die geförderten Projekte befassen sich mit dem Holocaust im weitesten Sinne, einschließlich seiner Vorgeschichte, seiner Nachwirkungen und der Rolle des Antisemitismus vor, während und nach dem Zweiten Weltkrieg.
+    Das EHRI Conny Kristel Fellowship Programm erleichtert den Zugang zu Holocaust-relevanten Archiven und Beständen und unterstützt damit die Forschung von Wissenschaftlern, Archivaren, Bibliothekaren, Kuratoren und weiteren Zielgruppen.
