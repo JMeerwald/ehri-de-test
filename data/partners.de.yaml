@@ -2,7 +2,7 @@
 
   - id: ifz
     title: Institut für Zeitgeschichte München-Berlin
-    url: https://www.ifz-muenchen.de/en/the-institute/about-the-institute/our-profile
+    url: https://www.ifz-muenchen.de/das-institut/ueber-das-institut/unser-profil
     image: logo_zfhs.png
     content: |
       Das Institut für Zeitgeschichte München-Berlin (IfZ) ist eine außeruniversitäre Forschungseinrichtung, die die gesamte deutsche Geschichte des 20. Jahrhunderts bis zur Gegenwart in ihren europäischen und globalen Bezügen erforscht. Das Zentrum für Holocaust-Studien am Institut für Zeitgeschichte in München ist ein internationales Kompetenz- und Kommunikationszentrum für die Erforschung des Holocaust.
@@ -10,14 +10,14 @@
   
   - id: barch
     title: Bundesarchiv
-    url: https://www.bundesarchiv.de/EN/Navigation/Home/home.html
+    url: https://www.bundesarchiv.de/das-bundesarchiv/
     image: BArch_neu.jpg
     content: |
       Das Bundesarchiv ist die größte Archivinstitution in Deutschland. In den Beständen des Bundesarchivs befinden sich entscheidende Unterlagen zur Erforschung des Holocaust, die über Findbücher und moderne Datenbanken zugänglich sind. 
       
   - id: aa
     title: Arolsen Archives
-    url: https://arolsen-archives.org/en
+    url: https://arolsen-archives.org/
     image: arolsenlogo.PNG
     content: |
       Die Arolsen Archives sind das internationale Zentrum über NS-Verfolgung mit dem weltweit umfassendsten Archiv zu den Opfern und Überlebenden des Nationalsozialismus. Die Sammlung mit Hinweisen zu rund 17,5 Millionen Menschen gehört zum UNESCO-Weltdokumentenerbe. Sie beinhaltet Dokumente zu den verschiedenen Opfergruppen des NS-Regimes und ist eine wichtige Wissensquelle für die heutige Gesellschaft.
