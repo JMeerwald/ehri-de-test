@@ -8,7 +8,7 @@ The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project
 infrastructure securing Holocaust research, commemoration and education on a trans-national level. 
 {{< /intro >}}
 
-### EHRI-DE is the National Node, representing Germany within the consortium of the European Holocaust Research Infrastructure and continuing its services and offerings on a national level. 
+### EHRI-DE is the National Node, representing Germany within the consortium of the European Holocaust Research Infrastructure and continuing its services and activities on a national level. 
 
 Given Germany's particular role as the main perpetrator state of the Holocaust and the responsibility this entails, EHRI-DE will pursue its mission to strengthen and support Holocaust research and education and to contribute to a solid basis for commemorating the victims of National Socialism in Germany and beyond. EHRI-DE pursues a number of key objectives: 
 
