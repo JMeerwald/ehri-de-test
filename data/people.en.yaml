@@ -1,7 +1,7 @@
 ---
 
 - id: meerwald
-  name: Johannes Meerwald
+  name: Dr. des. Johannes Meerwald
   email: meerwald@ifz-muenchen.de
   image: meerwald.jpg
   about: |
@@ -9,7 +9,7 @@
   contact: true
 
 - id: miez
-  name: Florine Miez
+  name: Florine Miez, M.A.
   email: miez@ifz-muenchen.de
   image: Foto_miez.jpg
   about: |
