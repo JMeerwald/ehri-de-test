@@ -2,7 +2,7 @@
 
 - id: arolsen
   title: The Online Archive of the Arolsen Archives
-  url: https://collections.arolsen-archives.org/en/search
+  url: collections.arolsen-archives.org
   icon: meeting_room
   image: arolsen-archive.JPG
   content: |
