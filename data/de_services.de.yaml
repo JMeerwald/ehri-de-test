@@ -2,13 +2,11 @@
 
 - id: arolsen
   title: Das Online Archive der Arolsen Archives
-  url: https://collections.arolsen-archives.org/en/search
+  url: collections.arolsen-archives.org
   icon: meeting_room
   image: arolsen-archive.JPG
   content: |
-    Die Arolsen Archives sind ein internationales Zentrum über NS-Verfolgung mit dem weltweit umfassendsten Archiv zu den Opfern und Überlebenden des Nationalsozialismus. 
-    Die Sammlung mit Hinweisen zu rund 17,5 Millionen Menschen beinhaltet Dokumente zu den verschiedenen Opfergruppen des NS-Regimes und ist eine wichtige Wissensquelle für die heutige Gesellschaft.
-    Ein großer Teil der rund 30 Millionen Dokumente ist inzwischen im Online-Archiv der Arolsen Archives verfügbar. Die Zahl der suchbaren Namen und Stichworte wächst kontinuierlich.
+    Das umfangreiche Online-Archiv der Arolsen Archives bietet den Nutzern aktuell Zugriff auf 40 Millionen Dokumente und wird kontinuierlich ausge-baut. Jährlich greifen rund 700.000 Menschen auf diese zentrale Quelle zur NS-Verfolgung zu. Der von den Arolsen Archives als digitales Hilfs-mittel erstellte e-Guide hilft den Nutzern, die Dokumente besser zu ver-stehen.
 
 - id: PMJ
   title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
