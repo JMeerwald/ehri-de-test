@@ -1,12 +1,27 @@
 ---
-
 - id: arolsen
   title: The Online Archive of the Arolsen Archives
   url: collections.arolsen-archives.org
   icon: meeting_room
-  image: arolsen-archive.JPG
+  image: arolsen-archiv.jpg
   content: |
     The extensive online archive of the Arolsen Archives gives users access to 40 million documents and is being expanded further. Each year, around 700,000 people use this unique resource on Nazi persecution.. The e-guide created by the Arolsen Archives as a digital aid helps users to bet-ter understand the documents.
+
+- id: everynamecounts
+  title: Crowdsourcing-Initiative #everynamecounts
+  url: everynamecounts.arolsen-archives.org/en
+  icon: meeting_room
+  image: everynamecounts.png
+  content: |
+    #everynamecounts invites volunteers to help build the world’s largest digital memorial to the victims and survivors of the Nazi era. This crowdsourcing initiative makes it easy to take a stand and get involved yourself. To join in, all you need is a smartphone or a computer with ac-cess to the internet and a few minutes of spare time. Then you can start digitizing the names and information on the original documents.
+
+- id: lastseen
+  title: #lastseen
+  url: atlas.lastseen.org/en
+  icon: meeting_room
+  image: lastseen.JPG
+  content: |
+    In the #LastSeen Image Atlas, you will find all surviving images of deportations from the German Reich between 1938 and 1945 digitally published in a curated and scientifically contextualized format. With its complex filtering structure and the annotation of photographs with historical context, the Image Atlas serves as both a digital edition and an interactive exhibition. #LastSeen is a joint project of the following partners: Arolsen Archives; USC Dornsife Center for Advanced Genocide Research; Gedenk- und Bildungsstätte Haus der Wannsee-Konferenz; Gedenkstätte Hadamar; Public History im Kulturreferat der Landeshauptstadt München; Selma Stern Zentrum für Jüdische Studien
 
 - id: PMJ
   title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
@@ -16,7 +31,6 @@
   content: |
     PMJ is a 16-volume series of historical documents in English translation that traces the persecution and murder of Jews in the German Reich and the whole of Nazi-dominated Europe from 1933 to 1945 from the perspective of perpetrators, victims, and third parties. Scholarly introductions to key events and developments, along with explanatory footnotes, biographies, and indices, provide context for the documents.
  
-
 - id: zeitgeschichte
   title: Zeitgeschichte Open
   url: https://open.ifz-muenchen.de/home
