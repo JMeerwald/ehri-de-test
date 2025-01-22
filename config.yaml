@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://ehri-de.org/'
 languageCode: en
 title: Germany
 theme: ehri-nn
