@@ -4,9 +4,25 @@
   title: Das Online Archive der Arolsen Archives
   url: collections.arolsen-archives.org
   icon: meeting_room
-  image: arolsen-archive.JPG
+  image: arolsen-archiv.jpg
   content: |
     Das umfangreiche Online-Archiv der Arolsen Archives bietet den Nutzern aktuell Zugriff auf 40 Millionen Dokumente und wird kontinuierlich ausge-baut. Jährlich greifen rund 700.000 Menschen auf diese zentrale Quelle zur NS-Verfolgung zu. Der von den Arolsen Archives als digitales Hilfs-mittel erstellte e-Guide hilft den Nutzern, die Dokumente besser zu ver-stehen.
+
+- id: everynamecounts
+  title: Die Crowdsourcing-Initiative #everynamecounts
+  url: everynamecounts.arolsen-archives.org
+  icon: meeting_room
+  image: everynamecounts.png
+  content: |
+    #everynamecounts lädt Freiwillige dazu ein, am größten digitalen Denk-mal für die Opfer und Überlebenden des Nationalsozialismus mitzuarbei-ten. Die Crowdsourcing-Initiative macht es leicht, selbst ein Zeichen zu setzen und aktiv zu werden. Wer mithelfen möchte, braucht lediglich ein Smartphone oder einen Computer mit Internetzugang und ein paar Minu-ten Zeit, um die Namen und Informationen von den Original-Dokumenten zu digitalisieren.
+
+- id: lastseen
+  title: #lastseen
+  url: atlas.lastseen.org
+  icon: meeting_room
+  image: lastseen.JPG
+  content: |
+    Im #LastSeen Bildatlas werden alle überlieferten Bilder von Deportationen aus dem Deutschen Reich zwischen 1938 und 1945 in kuratierter und wissenschaftlich kontextualisierter Form digital veröffentlicht. Durch die komplexe Filterstruktur und die Annotation der Fotografien mit historischem Kontextwissen ist der Bildatlas digitale Edition und interaktive Ausstellung zugleich. #LastSeen ist ein Projekt der folgenden Partner: Arolsen Archives; USC Dornsife Center for Advanced Genocide Research; Gedenk- und Bildungsstätte Haus der Wannsee-Konferenz; Gedenkstätte Hadamar; Public History im Kulturreferat der Landeshauptstadt München; Selma Stern Zentrum für Jüdische Studien
 
 - id: PMJ
   title: The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945 (PMJ)
@@ -15,8 +31,6 @@
   image: pmj_neu.png
   content: |
    PMJ ist eine 16-bändige Edition historischer Dokumente in englischer Übersetzung, die die Verfolgung und Ermordung der Juden im Deutschen Reich und im gesamten nationalsozialistisch dominierten Europa von 1933 bis 1945 aus der Perspektive von Tätern, Opfern und Dritten behandelt. Wissenschaftliche Einführungen zu den wichtigsten Ereignissen und Entwicklungen sowie erläuternde Fußnoten, Biografien und Register stellen den Kontext der Dokumente her.
-
-
 
 - id: zeitgeschichte
   title: Zeitgeschichte Open
