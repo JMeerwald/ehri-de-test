@@ -3,3 +3,6 @@ de_services:
 
 services:
   other: EHRI Services
+
+learn_more:
+  other: Learn More
