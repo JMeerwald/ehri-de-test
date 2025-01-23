@@ -1,7 +1,7 @@
 ---
 - id: arolsen
   title: The Online Archive of the Arolsen Archives
-  url: collections.arolsen-archives.org
+  url: https://collections.arolsen-archives.org
   icon: meeting_room
   image: arolsen-archiv_neu.jpg
   content: |
@@ -9,7 +9,7 @@
 
 - id: everynamecounts
   title: everynamecounts
-  url: everynamecounts.arolsen-archives.org/en
+  url: https://everynamecounts.arolsen-archives.org/en
   icon: meeting_room
   image: everynamecounts.png
   content: |
@@ -17,7 +17,7 @@
 
 - id: lastseen
   title: LastSeen
-  url: atlas.lastseen.org/en
+  url: https://atlas.lastseen.org/en
   icon: meeting_room
   image: lastseen_neu.jpg
   content: |
