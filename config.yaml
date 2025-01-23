@@ -11,7 +11,7 @@ params:
 
 
   # `contactName` and `contactEmail` are used to populate the contact page.
-  contactName: EHRI DE
+  contactName: EHRI-DE
   contactEmail: meerwald@ifz-muenchen.de
 
   # `contactForm` is a boolean that determines whether the contact form should be shown.
@@ -60,9 +60,6 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
-      weight: 40
   services:
     - identifier: portal
       pageRef: 'https://portal.ehri-project.eu/'
@@ -116,9 +113,6 @@ languages:
         - identifier: partners
           pageRef: de/partners
           weight: 30
-        - identifier: fellowships_training
-          pageRef: de/training
-          weight: 40
       services:
         - identifier: document_blog
           pageRef: 'https://blog.ehri-project.eu/'
