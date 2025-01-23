@@ -65,9 +65,6 @@ contact_form_send:
 contact_coordinators:
   other: Koordinator:innen für {{ .Title }}
 
-contact_social:
-  other: "EHRI in den sozialen Medien"
-
 contact_thanks:
   other: Danke für Ihre Nachricht
 
