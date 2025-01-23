@@ -18,7 +18,7 @@
 
 - id: lastseen
   title: LastSeen
-  url: https://atlas.lastseen.org
+  url: https://atlas.lastseen.org/
   icon: meeting_room
   image: lastseen_neu.jpg
   content: |
