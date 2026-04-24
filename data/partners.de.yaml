@@ -22,4 +22,23 @@
     content: |
       Die Arolsen Archives sind das internationale Zentrum über NS-Verfolgung mit dem weltweit umfassendsten Archiv zu den Opfern und Überlebenden des Nationalsozialismus. Sie bieten einfachen Zugang zu breitem Wissen über NS-Verfolgung, NS-Zwangsarbeit, den Holocaust sowie zu den Folgen von Diskriminierung und Rassenhass. Die Sammlung mit Hinweisen zu rund 17,5 Millionen Menschen gehört zum UNESCO-Weltdokumentenerbe.
 
+- id: gwzo
+    title: GWZO
+    url: https://www.leibniz-gwzo.de/de
+    image: gwzo_logo_de.png
+    content: |
+      Das Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO) zählt international zu den führenden Forschungs- und Vermittlungseinrichtungen für die Geschichte und Kultur des östlichen Europa. 
+      
+- id: fbi
+    title: Fritz Bauer Institut
+    url: https://www.fritz-bauer-institut.de/
+    image: fbi_logo.jpg
+    content: |
+      Das Fritz Bauer Institut ist eine unabhängige Forschungs- und Bildungseinrichtung, die sich in interdisziplinärer Perspektive mit Zeitgeschichte beschäftigt. Ein Schwerpunkt des Instituts ist die wissenschaftliche, pädagogische und künstlerische Auseinandersetzung mit der nationalsozialistischen Vernichtungspolitik und ihren Folgen bis in die Gegenwart. 
 
+   - id: dea
+    title: Deutsches Exilarchiv 1933-1945
+    url: https://www.dnb.de/DE/Ueber-uns/DEA/dea_node.html
+    image: dnb_logo.jpg
+    content: |
+      Das Deutsche Exilarchiv 1933-1945 der Deutschen Nationalbibliothek ist eine Plattform für die Auseinandersetzung mit den Themen Exil und Emigration in der NS-Zeit. Es sammelt Zeugnisse des Exils wie Publikationen, institutionelle und persönliche Nachlässe - aus allen Lebensbereichen und unabhängig von der Prominenz der betroffenen Personen.    
