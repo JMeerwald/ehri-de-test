@@ -1,5 +1,5 @@
 ---
-title: The consortium of the European Holocaust Research Infrastructure in Germany
+title: The European Holocaust Research Infrastructure in Germany
 description: Welcome to the German Holocaust Research Infrastructure
 linkTitle: Home
 
