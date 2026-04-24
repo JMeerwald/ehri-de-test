@@ -12,4 +12,4 @@ und versteht sich als Plattform für Institutionen und Menschen, die in der Holo
 * Zugang zu digitalen Services, transnationalen Förderprogrammen sowie Trainings- und Vernetzungsangeboten;
 * Vermittlung von Forschungsergebnissen und -methoden, Datenstandards und neuen Ansätzen der Holocaust Education.
 
-EHRI-DE wird vom Bundesministerium für Forschung, Technologie und Raumfahrt finanziert. 
+EHRI-DE wird vom [Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)](https:/www.bmftr.bund.de) finanziert. 
