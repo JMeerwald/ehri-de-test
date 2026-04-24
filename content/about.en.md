@@ -12,4 +12,4 @@ and serves as a platform for institutions and professionals engaged in Holocaust
 * Providing access to digital services, transnational funding opportunities as well as networking and training events;
 * Dissemination of research findings as well as methods, data standards, and new approaches in Holocaust Education. 
 
-EHRI-DE is funded by the [Federal Ministry of Research, Technology and Space](https://www.bmftr.bund.de/EN)
+EHRI-DE is funded by the [Federal Ministry of Research, Technology and Space](https://www.bmftr.bund.de/EN).
