@@ -21,21 +21,21 @@
     content: |
       The Arolsen Archives are the international center on Nazi persecution with the world’s most comprehensive archive on the victims and survivors of National Socialism. They provide easy access to a broad base of knowledge about Nazi persecution, Nazi forced labor, the Holocaust, and the consequences of discrimination and racial hatred. The collection has information on about 17.5 million people and belongs to UNESCO’s Memory of the World.
 
-- id: gwzo
+  - id: gwzo
     title: GWZO
     url: https://www.leibniz-gwzo.de/en
     image: gwzo_logo_eng.png
     content: |
       The Leibniz Institute for the History and Culture of Eastern Europe (GWZO) is one of the world’s leading research and educational institutions for the study of the history and culture of Central and Eastern Europe.
 
-- id: fbi
+  - id: fbi
     title: Fritz Bauer Institut
     url: https://www.fritz-bauer-institut.de/en/
     image: fbi_logo.jpg
     content: |
       The Fritz Bauer Institute is an independent research and educational institution focusing on contemporary history from an interdisciplinary perspective. The institute moreover focuses on scholarly, pedagogical, ant artistic engagements with the National Socialist politics of annihilation and its aftermath reaching into the present day. 
       
-- id: dea
+  - id: dea
     title: German Exile Archive 1933-1945
     url: https://www.dnb.de/EN/Ueber-uns/DEA/dea_node.html
     image: dnb_logo.jpg
