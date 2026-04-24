@@ -4,13 +4,12 @@ layout: about
 type: about
 ---
 
-### EHRI-DE ist das Konsortium, das Deutschland innerhalb der [European Holocaust Research Infrastructure (EHRI-ERIC)](https://www.ehri-project.eu) vertritt und dessen Angebote auf nationaler Ebene weiterführt. 
+### EHRI-DE ist die deutsche National Node der [European Holocaust Research Infrastructure (EHRI-ERIC)](https://www.ehri-project.eu) 
 
-Angesichts der besonderen historischen Verantwortung Deutschlands erfüllt EHRI-DE den Auftrag, die Forschung, Dokumentation und Lehre zum Holocaust zu stärken und zu einer soliden Basis für das Gedenken an die Opfer des Nationalsozialismus beizutragen. EHRI-DE verfolgt dabei eine Reihe von Kernzielen: 
+und versteht sich als Plattform für Institutionen und Menschen, die in der Holocaust-Forschung, -Dokumentation und -Vermittlung tätig sind und diese in Deutschland und darüber hinaus aktiv mitgestalten. EHRI-DE verfolgte folgende Kernziele:  
 
-* Wissenstransfer: Verknüpfung von Institutionen, die sich mit dem Holocaust auseinandersetzen und Aufbau einer Plattform zur Entwicklung von (Forschungs-)Projekten 
-* Vernetzung holcaustbezogener Daten
-* Förderung einer transnationalen Geschichtsschreibung über den Holocaust 
-* Erleichterung des Zugangs zu Holocaust-bezogenen Forschungsdaten und -ergebnissen sowie zu Fortbildungsmöglichkeiten
-* Stärkung von sozialer Resilienz, Vielfalt und Integration sowie Antisemitismusbekämpfung
+* Vernetzung von Institutionen, Holocaust-relevanten Archiv- und Forschungsdaten und Expertisen;
+* Zugang zu digitalen Services, transnationalen Förderprogrammen sowie Trainings- und Vernetzungsangeboten;
+* Vermittlung von Forschungsergebnissen und -methoden, Datenstandards und neuen Ansätzen der Holocaust Education.
+
 
