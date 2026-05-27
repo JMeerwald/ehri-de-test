@@ -12,4 +12,4 @@ Am darauffolgenden Tag kamen die Projektpartner zu einem ersten internen Worksho
 
 EHRI-DE wird seit Februar 2026 vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) gefördert. Die Gründung von EHRI-DE markiert einen Meilenstein für die Holocaustforschung in Deutschland und eröffnet neue Perspektiven für die transinstitutionelle und transnationale Zusammenarbeit sowie die Vernetzung von Quellen, Daten und Wissen. 
 
-Eine Übersicht der Projektpartner findet sich [hier](https://ehri-de.org/de/partners/) 
+Eine Übersicht der Projektpartner findet sich [hier](https://ehri-de.org/de/partners/). 
