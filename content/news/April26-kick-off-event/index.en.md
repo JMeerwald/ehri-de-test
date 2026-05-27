@@ -1,6 +1,6 @@
 ---
-title: EHRI-DE: Kick-off
-linkTitle: EHRI-DE: Kick-off
+title: Kick-off EHRI-DE
+linkTitle: Kick-off EHRI-DE
 date: 2026-05-15
 image: EHRI-DE-kickoff.JPG
 summary: |
