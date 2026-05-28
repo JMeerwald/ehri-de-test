@@ -8,6 +8,9 @@ dateFormat: '2 January 2006'
 summaryLength: 40
 params:
   titleShort: EHRI-DE
+  facebookUrl: 'https://www.facebook.com/people/Ehri-de/61560414411928/'
+  linkedinUrl: 'https://www.linkedin.com/company/ehri-european-holocaust-research-infrastructure'
+  blueskyUrl: 'https://bsky.app/profile/ehri-de.bsky.social'
 
   headerLogo: images/ehri-logo-en.svg
 
@@ -20,6 +23,14 @@ params:
 
   # `contactFormUrl` is the POST action of the form that will be used to send the contact email.
   contactFormUrl: dummy
+
+  # `funders` is a list of funding bodies, each with a name, logo and an optional URL.
+  # If the URL is not provided, the logo will not be linked. The logo should be in the
+  # `static/images` folder.
+  funders:
+    - name: EHRI-DE wird vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) gefördert.
+      logo: 'BMFTR_Logo.svg.png'
+      url: 'https://www.bmftr.bund.de/DE/Home/home_node.html'
 
 # Configure syntax highlighting for the examples on the `training` page
 markup:
