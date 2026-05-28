@@ -9,7 +9,7 @@ summaryLength: 40
 params:
   titleShort: EHRI-DE
   facebookUrl: 'https://www.facebook.com/people/Ehri-de/61560414411928/'
-  linkedinUrl: 'https://www.linkedin.com/company/ehri-european-holocaust-research-infrastructure'
+  linkedinUrl: 'https://www.linkedin.com/company/ehri-de?trk=blended-typeahead'
   blueskyUrl: 'https://bsky.app/profile/ehri-de.bsky.social'
 
   headerLogo: images/ehri-logo-en.svg
