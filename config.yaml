@@ -9,6 +9,7 @@ summaryLength: 40
 params:
   titleShort: EHRI-DE
 
+  headerLogo: images/ehri-logo-en.svg
 
   # `contactName` and `contactEmail` are used to populate the contact page.
   contactName: EHRI-DE
@@ -32,7 +33,8 @@ taxonomies:
   - name: tag
     weight: 2
 
-# Menu configuration. Labels are in the i18n folders:
+# Menu configuration. Labels, which should correspond to
+# to the identifier, are in the i18n folders:
 menu:
   main:
     - identifier: about
@@ -75,8 +77,7 @@ menu:
       weight: 40
 
 
-# Language overrides for menu config. TODO: figure out
-# how not to duplicate things in e.g. the services menu
+# Languages
 languages:
   en:
     title: Germany
@@ -86,40 +87,6 @@ languages:
     title: Deutschland
     weight: 2
     languageName: Deutsch
-    menu:
-      main:
-        - identifier: about
-          pageRef: de/about
-          weight: 20
-        - identifier: news
-          pageRef: de/news
-          weight: 30
-        - identifier: partners
-          pageRef: de/partners
-          weight: 40
-        - identifier: de_services
-          pageRef: de/ehri-de-services
-          weight: 50
-        - identifier: services
-          pageRef: de/ehri-services
-          weight: 60
-        - identifier: contact
-          pageRef: de/contact
-          weight: 70
-      footer:
-        - identifier: about
-          pageRef: de/about
-          weight: 20
-        - identifier: partners
-          pageRef: de/partners
-          weight: 30
-      services:
-        - identifier: document_blog
-          pageRef: 'https://blog.ehri-project.eu/'
-          weight: 20
-        - identifier: digital_tools_guide
-          pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
-          weight: 30
-        - identifier: podcast
-          pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
-          weight: 40
+
+    params:
+      headerLogo: images/ehri-logo-de.svg
