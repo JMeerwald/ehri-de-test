@@ -73,6 +73,9 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
+    - identifier: legal
+      pageRef: legal
+      weight: 40
   services:
     - identifier: portal
       pageRef: 'https://portal.ehri-project.eu/'
