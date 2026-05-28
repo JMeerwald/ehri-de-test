@@ -29,7 +29,7 @@ params:
   # `static/images` folder.
   funders:
     - name: EHRI-DE wird vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) gefördert.
-      logo: 'BMFTR_Logo.svg.png'
+      logo: 'bmftr.jpg'
       url: 'https://www.bmftr.bund.de/DE/Home/home_node.html'
 
 # Configure syntax highlighting for the examples on the `training` page
