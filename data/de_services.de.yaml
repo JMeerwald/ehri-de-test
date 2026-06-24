@@ -40,3 +40,42 @@
    Seit 2019 präsentiert das IfZ seine Open Access-Publikationen auf dem Repositorium Zeitgeschichte Open; im Dezemer 2023 erfolgte ein vollständiger Relaunch. Auf Zeitgeschichte Open sollen, gemäß der Open-Access-Policy des Instituts, sukzessive alle IfZ-Publikationen bereitgestellt werden, für die entsprechende rechtliche Voraussetzungen bestehen. 
    Neben Open-Access-Titeln werden über das Repositorium auch digitalisierte und zugangsbeschränkte Publikationen sowie Archivbestände angeboten.
 
+- id: fbi_Interviews
+  title: Interviews mit Überlebenden des KZ Buna/Monowitz
+  url: https://www.fritz-bauer-institut.de/wollheim-memorial-interviews
+  icon: meeting_room
+  image: FBI.jpg
+  content: |
+   Interviews mit 24 Überlebenden des KZ Buna/Monowitz sind Teil des Wollheim Memorials. Während einer Erneuerung der [Website des Wollheim Memorials](http://www.wollheim-memorial.de) macht das Fritz Bauer Institut sie zugänglich.
+
+- id: fbi_Tonbandmitschnitt
+  title: Tonbandmitschnitt des 1. Frankfurter Auschwitz-Prozesses (1963-1965)
+  url: https://www.auschwitz-prozess.de/ 
+  icon: meeting_room
+  image: FBI2.jpg
+  content: |
+   In Zusammenarbeit mit dem Hessischen Hauptstaatsarchiv Wiesbaden macht das Fritz Bauer Institut den Audio-Mitschnitt des ersten Frankfurter Auschwitz-Prozesses zugänglich.
+
+- id: fbi_Ausstellung
+  title: Ausstellung „Fritz Bauer. Der Staatsanwalt. NS-Verbrechen vor Gericht“
+  url: http://fritz-bauer-der-staatsanwalt.de/
+  icon: meeting_room
+  image: FBI.jpg
+  content: |
+   Die 2014 vom Fritz Bauer Institut und dem Jüdischen Museum Frankfurt entwickelte Ausstellung wurde 2023 digitalisiert. Versionen in englischer und [Leichter Sprache](https://leichte-sprache.de/2023/07/ausstellung-ueber-fritz-bauer-in-leichter-sprache/) stehen ebenfalls zur Verfügung. 
+
+- id: fbi_Unterrichtsmodule
+  title: Online-Unterrichtsmodule zur Auseinandersetzung mit dem Holocaust
+  url: https://www.fritz-bauer-institut.de/publikationen-paed
+  icon: meeting_room
+  image: FBI2.jpg
+  content: |
+   Für die Auseinandersetzung mit dem Holocaust im Schulunterricht entwickelt das Fritz Bauer Institut Unterrichtsmodule zu verschiedenen Themen, die Lehrerinnen und Lehrer kostenfrei nutzen können.
+
+- id: fbi_Vortragsveranstaltungen
+  title: Vortragsveranstaltungen am Fritz Bauer Institut, Videoaufzeichnungen
+  url: https://www.fritz-bauer-institut.de/mediathek
+  icon: meeting_room
+  image: FBI.jpg
+  content: |
+   Das Fritz Bauer Institut veranstaltet regelmäßig öffentliche Vortrags- und Diskussionsveranstaltungen sowie Buchvorstellungen. Ausgewählte Veranstaltungen sind anschließend als Videoaufzeichnungen verfügbar. 
