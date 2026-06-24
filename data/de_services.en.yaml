@@ -40,5 +40,43 @@
     The IfZ has been providing its open access publications via the Zeitgeschichte Open repository since 2019, which underwent a comprehensive relaunch in December 2023. In line with the Institute’s Open Access Policy, all IfZ publications that conform with the legal requirements are to be added successively to Zeitgeschichte Open. 
     In addition to open-access titles, the repository provides access to digitized and restricted-access publications as well as archival holdings.
 
+- id: fbi_Interviews_eng
+  title: Interviews with survivors of the Buna/Monowitz concentration camp
+  url: https://www.fritz-bauer-institut.de/wollheim-memorial-interviews
+  icon: meeting_room
+  image: FBI.jpg
+  content: |
+   Interviews with 24 survivors of the Buna/Monowitz concentration camp are part of the Wollheim Memorial. While the website of the [Wollheim Memorial](http://www.wollheim-memorial.de/en/home) is being updated, the Fritz Bauer Institute is making them available.
 
+- id: fbi_Tonbandmitschnitt_eng
+  title: Recordings of the first Auschwitz trial (1963–1965) 
+  url: https://www.auschwitz-prozess.de/ 
+  icon: meeting_room
+  image: FBI2.jpg
+  content: |
+   In collaboration with the Hessian State Archives in Wiesbaden, the Fritz Bauer Institute is making the audio recording of the first Frankfurt Auschwitz trial available to the public.
+
+- id: fbi_Ausstellung_eng
+  title: Exhibition „Fritz Bauer. District attorney. Prosecuting Nazi crimes“
+  url: https://fritz-bauer-der-staatsanwalt.de/en
+  icon: meeting_room
+  image: FBI.jpg
+  content: |
+   The exhibition, developed in 2014 by the Fritz Bauer Institute and the Jewish Museum Frankfurt, was digitized in 2023. Versions in English and in simple language are also available. 
+
+- id: fbi_Unterrichtsmodule_eng
+  title: Online educational modules on the history of the Holocaust
+  url: https://fritz-bauer-der-staatsanwalt.de/en
+  icon: meeting_room
+  image: FBI2.jpg
+  content: |
+   To help schools address the Holocaust in the classroom, the Fritz Bauer Institute develops teaching modules on various topics that teachers can use free of charge.
+
+- id: fbi_Vortragsveranstaltungen_eng
+  title: Audio and video recordings of lectures at the Fritz Bauer Institute
+  url: https://www.fritz-bauer-institut.de/mediathek
+  icon: meeting_room
+  image: FBI.jpg
+  content: |
+   The Fritz Bauer Institute regularly hosts public lectures, panel discussions, and book presentations. Selected events are available as video recordings. 
 
