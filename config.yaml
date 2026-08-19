@@ -73,9 +73,6 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: EHRI für bestandshaltende Institutionen  
-      pageRef: EHRI für bestandshaltende Institutionen
-      weight: 40
     - identifier: legal
       pageRef: legal
       weight: 50
