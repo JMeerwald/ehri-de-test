@@ -1,5 +1,5 @@
 ---
-title: EHRI für bestandshaltende Institutionen: Integrieren Sie Ihre Daten in das EHRI-Portal 
+title: EHRI für bestandshaltende Institutionen – Integrieren Sie Ihre Daten in das EHRI-Portal! 
 ---
 
 Informationen über Quellen zum Holocaust sind eine wesentliche Voraussetzung für Forschung, Bildung und Gedenken. Bewahren Sie oder Ihre Institution Quellen zum Holocaust auf und möchten Sie diese sichtbar machen? Hier erfahren Sie, wie Sie Ihre Findmittel und Metadaten im EHRI-Portal verfügbar machen können. 
