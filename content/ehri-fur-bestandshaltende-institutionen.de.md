@@ -31,7 +31,7 @@ Zu klären ist zunächst, ob sich alle Ihre Bestandsbeschreibungen auf den Holoc
 
 Es gibt mehrere Möglichkeiten, Ihre Bestandsmetadaten in das EHRI-Portal zu integrieren. Der technische Aufwand ist dabei jeweils unterschiedlich: 
 
-![Schaubild](../images/Schaubild_uebersetzt.jpg)
+![Schaubild](/images/Schaubild_uebersetzt.jpg)
 
 *Manuelle Dateneingabe*: Bestandsbeschreibungen werden über ein Administratorenkonto direkt in das EHRI-Portal eingegeben.
 
