@@ -64,3 +64,5 @@ Den Import der neuesten EAD-Variante EAD-3 unterstützen wir ebenfalls, auch wen
 ### Werden mehrsprachige Findmittel unterstützt? 
 
 Mehrsprachige Findmittel können wir über EAD importieren, sofern jede Sprache in einer eigenen XML-Datei vorliegt. Die mehrsprachigen Funktionen von EAD-3 unterstützen wir noch nicht. 
+
+Please find information in English on the [central EHRI-ERIC website](https://www.ehri-project.eu/ehri-for-institutions/). 
