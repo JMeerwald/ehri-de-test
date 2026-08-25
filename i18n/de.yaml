@@ -62,6 +62,9 @@ contact_form_subject:
 contact_form_message:
   other: Senden Sie uns eine Nachricht...
 
+contact_coordinators:
+  other: Projektteam {{ .Title }}
+
 contact_form_send:
   other: Nachricht versenden
 
