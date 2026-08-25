@@ -65,9 +65,6 @@ contact_form_message:
 contact_form_send:
   other: Nachricht versenden
 
-contact_coordinators:
-  other: Koordinator:innen für {{ .Title }}
-
 contact_thanks:
   other: Danke für Ihre Nachricht
 
